@@ -1,0 +1,51 @@
+2022-12-01 15:22:22	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 15:24:40	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 15:26:17	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 15:30:18	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 15:30:51	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 15:31:25	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 15:31:41	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 15:31:41	INFO	initialize/database.go:46	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化mysql数据库完成! dsn: %sroot:******@tcp(localhost:3306)/test?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-01 15:35:17	INFO	core/server.go:30	github.com/thecvcoder/cloud-api-go/core.RunServer	
+2022-12-01 16:06:43	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 16:06:43	INFO	initialize/database.go:46	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化mysql数据库完成! dsn: %sroot:******@tcp(localhost:3306)/test?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-01 16:07:02	INFO	core/server.go:30	github.com/thecvcoder/cloud-api-go/core.RunServer	
+2022-12-01 16:11:27	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 16:11:27	INFO	initialize/database.go:46	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化mysql数据库完成! dsn: %sroot:******@tcp(localhost:3306)/test?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-01 16:13:24	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 16:13:24	INFO	initialize/database.go:46	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化mysql数据库完成! dsn: %sroot:******@tcp(localhost:3306)/test?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-01 16:13:44	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 16:13:44	INFO	initialize/database.go:46	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化mysql数据库完成! dsn: %sroot:******@tcp(localhost:3306)/test?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-01 16:30:18	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 16:31:21	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 16:34:47	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 16:35:40	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 16:36:26	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 16:36:44	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 16:38:24	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 16:38:34	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 16:39:08	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 16:39:54	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 16:40:03	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 16:41:50	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 16:42:39	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 16:46:28	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 16:47:51	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 16:50:12	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 16:50:12	INFO	initialize/database.go:49	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化mysql数据库完成! dsn:root:******@tcp(localhost:3306)/test?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-01 16:54:56	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 16:54:56	INFO	initialize/database.go:50	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化mysql数据库完成! dsn:root:******@tcp(localhost:3306)/test?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-01 16:56:17	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 16:56:17	INFO	initialize/database.go:50	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化mysql数据库完成! dsn:root:******@tcp(localhost:3306)/test?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-01 16:56:39	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 16:56:39	INFO	initialize/database.go:50	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化mysql数据库完成! dsn:root:******@tcp(localhost:3306)/test?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-01 16:58:24	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 16:58:24	INFO	initialize/database.go:47	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化mysql数据库完成! dsn:root:******@tcp(localhost:3306)/test?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-01 17:12:40	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 17:12:53	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 17:13:09	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 17:13:50	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 17:13:52	INFO	core/server.go:30	github.com/thecvcoder/cloud-api-go/core.RunServer	
+2022-12-01 17:15:28	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-01 17:15:28	INFO	initialize/database.go:56	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化mysql数据库完成! dsn:root:******@tcp(localhost:3306)/test?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-01 17:17:11	INFO	core/server.go:30	github.com/thecvcoder/cloud-api-go/core.RunServer	

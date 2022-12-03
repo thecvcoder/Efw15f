@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.4.2" id="a54e0ef2-8279-463b-8bd6-06ef3f715e27" port="22" customName="Fedora" nameFormat="CUSTOM" username="cv" useOpenSSHConfig="false">
+        <option name="customName" value="Fedora" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

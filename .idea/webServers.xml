@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2f1af65b-f057-4a08-9faa-4bfc8b15ed27" name="Fedora">
+        <fileTransfer accessType="SFTP" host="192.168.4.2" port="22" sshConfigId="a54e0ef2-8279-463b-8bd6-06ef3f715e27" sshConfig="Fedora">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

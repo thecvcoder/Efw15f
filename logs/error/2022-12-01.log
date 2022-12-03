@@ -1,0 +1,21 @@
+2022-12-01 15:22:22	PANIC	initialize/database.go:37	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化数据库异常: Error 1045: Access denied for user 'root'@'localhost' (using password: YES)
+2022-12-01 15:24:40	PANIC	initialize/database.go:37	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化数据库异常: Error 1045: Access denied for user 'root'@'localhost' (using password: YES)
+2022-12-01 15:26:17	PANIC	initialize/database.go:37	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化数据库异常: Error 1045: Access denied for user 'root'@'localhost' (using password: YES)
+2022-12-01 15:30:18	PANIC	initialize/database.go:36	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化数据库异常: unknown collation
+2022-12-01 15:30:51	PANIC	initialize/database.go:36	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化数据库异常: unknown collation
+2022-12-01 15:31:25	PANIC	initialize/database.go:36	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化数据库异常: Error 1115: Unknown character set: 'utf8mbv4'
+2022-12-01 16:30:18	PANIC	initialize/database.go:39	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化数据库异常: Error 1045: Access denied for user 'root'@'localhost' (using password: YES)
+2022-12-01 16:31:21	PANIC	initialize/database.go:38	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化数据库异常: Error 1045: Access denied for user 'root'@'localhost' (using password: YES)
+2022-12-01 16:34:47	PANIC	initialize/database.go:38	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化数据库异常: Error 1045: Access denied for user 'root'@'localhost' (using password: YES)
+2022-12-01 16:35:40	PANIC	initialize/database.go:37	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化数据库异常: Error 1045: Access denied for user 'root'@'localhost' (using password: YES)
+2022-12-01 16:36:26	PANIC	initialize/database.go:37	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化数据库异常: Error 1045: Access denied for user 'root'@'localhost' (using password: YES)
+2022-12-01 16:36:44	PANIC	initialize/database.go:37	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化数据库异常: Error 1045: Access denied for user 'root'@'localhost' (using password: YES)
+2022-12-01 16:38:24	PANIC	initialize/database.go:37	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化数据库异常: Error 1045: Access denied for user 'root'@'localhost' (using password: YES)
+2022-12-01 16:38:34	PANIC	initialize/database.go:37	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化数据库异常: Error 1045: Access denied for user 'root'@'localhost' (using password: YES)
+2022-12-01 16:39:08	PANIC	initialize/database.go:37	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化数据库异常: Error 1045: Access denied for user 'root'@'localhost' (using password: YES)
+2022-12-01 16:39:54	PANIC	initialize/database.go:37	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化数据库异常: Error 1045: Access denied for user 'root'@'localhost' (using password: YES)
+2022-12-01 16:40:03	PANIC	initialize/database.go:37	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化数据库异常: Error 1045: Access denied for user 'root'@'localhost' (using password: YES)
+2022-12-01 16:41:50	PANIC	initialize/database.go:37	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化数据库异常: Error 1045: Access denied for user 'root'@'localhost' (using password: YES)
+2022-12-01 16:42:39	PANIC	initialize/database.go:36	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化数据库异常: Error 1045: Access denied for user 'root'@'localhost' (using password: YES)
+2022-12-01 16:46:28	PANIC	initialize/database.go:38	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化数据库异常: Error 1045: Access denied for user 'root'@'localhost' (using password: YES)
+2022-12-01 16:47:51	PANIC	initialize/database.go:38	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化数据库异常: Error 1045: Access denied for user 'root'@'localhost' (using password: YES)
