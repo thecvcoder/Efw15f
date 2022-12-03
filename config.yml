@@ -12,9 +12,9 @@ mysql:
   # 用户名
   username: root
   # 密码，PS：如果是纯数字，要加引号!!!
-  password: "000000"
+  password: "123456"
   # 数据库名
-  database: test
+  database: dev1
   # 主机地址
   host: localhost
   # 端口

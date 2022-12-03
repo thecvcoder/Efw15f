@@ -16,3 +16,8 @@
 2022-12-02 22:10:29	INFO	initialize/database.go:58	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化mysql数据库完成! dsn:root:******@tcp(localhost:3306)/test?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
 2022-12-02 22:10:29	INFO	initialize/validator.go:24	github.com/thecvcoder/cloud-api-go/initialize.InitValidator	初始化validator完成!
 2022-12-02 22:10:35	INFO	core/server.go:30	github.com/thecvcoder/cloud-api-go/core.RunServer	shutdown server!
+2022-12-02 21:21:09	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-02 21:36:35	INFO	initialize/logger.go:92	github.com/thecvcoder/cloud-api-go/initialize.InitLogger	初始化zap日志完成!
+2022-12-02 21:36:35	INFO	initialize/database.go:70	github.com/thecvcoder/cloud-api-go/initialize.dbAutoMigrate	初始化数据成功!
+2022-12-02 21:36:35	INFO	initialize/database.go:58	github.com/thecvcoder/cloud-api-go/initialize.InitMysql	初始化mysql数据库完成! dsn:root:******@tcp(localhost:3306)/dev1?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2022-12-02 21:36:35	INFO	initialize/validator.go:24	github.com/thecvcoder/cloud-api-go/initialize.InitValidator	初始化validator完成!
